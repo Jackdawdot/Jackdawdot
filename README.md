@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jackdawdot
+- 👋 Hi, I’m Sergey @Jackdawdot
 - 👀 I’m interested in Gamedev
 - 🌱 I’m currently learning C++ in UE4
 - 💞️ I’m looking to collaborate on ...
