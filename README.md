@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sergey @Jackdawdot
-- 👀 I’m interested in Gamedev and backend development.
+- 👀 I’m interested in android development and AR technologies
 - 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on learning projects.
 - Need more practice so I'm looking for internship.
